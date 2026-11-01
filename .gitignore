@@ -1,0 +1,5 @@
+.env
+.venv/
+spotify_data.csv
+spotify_data_ml.csv
+__pycache__/
